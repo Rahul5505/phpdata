@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Courier, monospace;
+    font-size: 20px;
+    background-color: beige;
+    color: brown;
+    font-style: oblique;
+}
+span{
+
+    font-size: 35px;
+}
+table{
+    border: 1px solid black;
+    background-color:transparent;
+    border-color: aqua;
+    border-radius: 50px;
+    box-shadow:skyblue;
+}
+img{
+    background-color: transparent;
+}
